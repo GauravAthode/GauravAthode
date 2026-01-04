@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Athode</h1>
-<h3 align="center">a passionate Software Engineer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
