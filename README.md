@@ -11,9 +11,13 @@
   <img src="https://komarev.com/ghpvc/?username=gauravathode&label=Profile%20views&color=0e75b6&style=flat" alt="gauravathode" />
 </p>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🔭 I’m currently working on **Major Project**
+
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GauravAthode](https://github.com/GauravAthode)
+
+- 💬 Ask me about **JAVA , DSA , FullStack - MERN**
 
 - 📫 How to reach me **gauravathode123@gmail.com**
 
@@ -51,6 +55,8 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-gaurav.vercel.app/?username=gauravathode" alt="gauravathode" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats-gaurav-kappa.vercel.app/api/top-langs?username=gauravathode&show_icons=true&locale=en&layout=compact" alt="gauravathode" /></p>
 
