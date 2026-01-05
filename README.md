@@ -8,7 +8,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gauravathode&label=Profile%20views&color=0e75b6&style=flat" alt="gauravathode" />
+  <img src="https://komarev.com/ghpvc/?username=GauravAthode&label=Profile%20views&color=0e75b6&style=flat" alt="gauravathode" />
 </p>
 
 - 🔭 I’m currently working on **Major Project**
@@ -58,8 +58,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-gaurav.vercel.app/?username=gauravathode" alt="gauravathode" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats-gaurav-kappa.vercel.app/api/top-langs?username=gauravathode&show_icons=true&locale=en&layout=compact" alt="gauravathode" /></p>
+<p><img align="left" src="https://github-readme-stats-gaurav-kappa.vercel.app/api/top-langs?username=GauravAthode&show_icons=true&locale=en&layout=compact" alt="gauravathode" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-gaurav-kappa.vercel.app/api?username=gauravathode&show_icons=true&locale=en" alt="gauravathode" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-gaurav-kappa.vercel.app/api?username=GauravAthode&show_icons=true&locale=en" alt="gauravathode" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravathode&" alt="gauravathode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GauravAthode&" alt="gauravathode" /></p>
