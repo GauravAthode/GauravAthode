@@ -113,15 +113,8 @@
     <td align="center" width="96">
         <img src="https://miro.medium.com/0*DpQbYfdi_b4Lr45Z." width="48" height="48" alt="workbench" />
       <br>Workbench
-    </td>
-   
-     
-    
+    </td>    
   </tr>
-
-
 </table>
-
-
-<br><br>
+<br>
 </div>
