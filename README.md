@@ -99,6 +99,14 @@
       <br>MongoDB
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://miro.medium.com/0*DpQbYfdi_b4Lr45Z." width="48" height="48" alt="workbench" />
+      <br>Workbench
+    </td> 
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
       <br>Github
     </td>
@@ -106,14 +114,7 @@
         <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
       <br>Git
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://miro.medium.com/0*DpQbYfdi_b4Lr45Z." width="48" height="48" alt="workbench" />
-      <br>Workbench
-    </td>    
+       
   </tr>
 </table>
 <br>
