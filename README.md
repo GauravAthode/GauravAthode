@@ -77,7 +77,11 @@
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vscode" width="43" height="43" alt="VsCode" />
       <br>VsCode
-    </td>  
+    </td> 
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=netlify" width="43" height="43" alt="VsCode" />
+      <br>Netlify
+    </td> 
   </tr>
 
   
@@ -113,6 +117,10 @@
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="git" />
       <br>Git
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://skillicons.dev/icons?i=vercel" width="43" height="43" alt="git" />
+      <br>Vercel
     </td>
        
   </tr>
