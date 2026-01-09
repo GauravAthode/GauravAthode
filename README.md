@@ -51,31 +51,31 @@
       <br>Java
     </td>
      <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=eclipse" width="48" height="48" alt="eclipse" />
+        <img src="https://skillicons.dev/icons?i=eclipse" width="43" height="43" alt="eclipse" />
       <br>Eclipse
     </td>
         <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="43" height="43" alt="HTML5" />
       <br>HTML5
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="43" height="43" alt="css" />
       <br>CSS
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="43" height="43" alt="bootstrap" />
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+        <img src="https://skillicons.dev/icons?i=tailwind" width="43" height="43" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="60" height="60" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="43" height="43" alt="VsCode" />
       <br>VsCode
     </td>  
   </tr>
@@ -83,35 +83,35 @@
   
   <tr>
   <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="43" height="43" alt="Nodejs" />
       <br>Nodejs
      </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+        <img src="https://skillicons.dev/icons?i=express" width="43" height="43" alt="express" />
       <br>express
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+        <img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43" alt="MongoDB" />
       <br>MongoDB
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="60" height="60" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://miro.medium.com/0*DpQbYfdi_b4Lr45Z." width="48" height="48" alt="workbench" />
+        <img src="https://miro.medium.com/0*DpQbYfdi_b4Lr45Z." width="43" height="43" alt="workbench" />
       <br>Workbench
     </td> 
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="60" height="60" />
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="git" />
+        <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="git" />
       <br>Git
     </td>
        
