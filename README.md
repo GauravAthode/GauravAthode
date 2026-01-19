@@ -115,8 +115,8 @@
       <br>Github
     </td>
     <td align="center" width="96"> 
-        <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="git" />
-      <br>Git
+        <img src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" width="43" height="43" alt="figma" />
+      <br>Figma
     </td>
     <td align="center" width="96"> 
         <img src="https://skillicons.dev/icons?i=vercel" width="43" height="43" alt="git" />
@@ -127,4 +127,4 @@
 </table>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravathode&" alt="gauravathode" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravathode& theme=flag-india" alt="gauravathode" /></p>
