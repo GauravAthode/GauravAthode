@@ -6,7 +6,6 @@
   A passionate Full Stack Developer from India
 </h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
-
 <p align="left">
   
   <img src="https://komarev.com/ghpvc/?username=GauravAthode&label=Profile%20views&color=0e75b6&style=flat" alt="gauravathode" />
