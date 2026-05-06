@@ -13,7 +13,6 @@
 - 🔭 I’m currently working on **Major Project**
 
 - 🌱 I’m currently learning **Spring Boot**
-
 - 👨‍💻 All of my projects are available at [https://github.com/GauravAthode](https://github.com/GauravAthode)
 
 - 💬 Ask me about **JAVA , DSA , FullStack - MERN**
